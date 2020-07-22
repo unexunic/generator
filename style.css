@@ -1,0 +1,47 @@
+h1
+{
+  color:lightblue; 
+  font-size:40px;
+  font-family: helvetica;
+}
+p
+{
+  color:#1167b1;
+  font-family: Helvetica;
+}
+form
+{
+  color:#1167b1;
+  font-family: Helvetica;
+  border-radius: 5px;
+  background-color: #D7F0E9;
+  padding: 20px;
+}
+.signin
+{
+  color:black;
+}
+#name
+{
+  background-color: white;
+}
+input[type=password]
+{
+  background-color: white;
+}
+div
+{
+  font-family: Helvetica;
+  font-size:15px;
+  
+}
+p
+{
+  color: #6c5b7b;
+  font-family: Helvetica;
+}
+input
+{
+  background-color:#6c5b7b;
+  color:white;
+}
